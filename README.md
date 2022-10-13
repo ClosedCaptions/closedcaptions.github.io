@@ -1,2 +1,2 @@
 # closedcaptions.github.io
-BSSCC Project
+Submission to Bayview Computer Club's website competition
